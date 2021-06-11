@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="facebook_app_id">933922540793227</string>
+    <string name="fb_login_protocol_scheme">fb933922540793227</string>
+    <string name="social_media_integration">Social media integration</string>
+    <string name="todo">TODO</string>
+    <string name="sign_out">sign out</string>
+
+
+</resources>
